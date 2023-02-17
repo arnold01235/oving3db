@@ -1,1 +1,6 @@
-
+{
+    "event": [
+      { "id": 1, "name": "Peter", "email": "peter@gmail.com", "message": "is ok" },
+      { "id": 2, "name": "Amanda", "email": "amanda@gmail.com", "message": "yes" }
+    ]
+  }
